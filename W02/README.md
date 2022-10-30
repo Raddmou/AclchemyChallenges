@@ -1,6 +1,12 @@
-# Sample Hardhat Project
+# How to Build "Buy Me a Coffee" DeFi dapp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Web Site Demo deployed goerli network:
+https://buymeacoffee-solidity-defi-tipping-app.mdmki.repl.co/
+
+Challenge:
+
+1. Allow your smart contract to update the withdrawal address.
+2. Allow your smart contract to buyLargeCoffee for 0.003 ETH, and create a button on the frontend website that shows a "Buy Large Coffee for 0.003ETH" button.
 
 Try running some of the following tasks:
 
